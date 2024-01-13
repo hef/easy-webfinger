@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.4](https://github.com/hef/easy-webfinger/compare/v0.1.3...v0.1.4) (2024-01-13)
+
+
+### Bug Fixes
+
+* **ci:** stop pushing images for please-release branch ([898be2b](https://github.com/hef/easy-webfinger/commit/898be2b1053819ef01ca6140c7dd20d379a0455d))
+* **doc:** fix docker and curl commands in readme ([9d76800](https://github.com/hef/easy-webfinger/commit/9d76800e345b9e5cd5952039d19e6e6faa252591))
+
 ## [0.1.3](https://github.com/hef/easy-webfinger/compare/v0.1.2...v0.1.3) (2024-01-13)
 
 
