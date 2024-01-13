@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/hef/easy-webfinger/compare/v0.1.0...v0.1.1) (2024-01-13)
+
+
+### Bug Fixes
+
+* **ci:** build docker image on tags ([348c00f](https://github.com/hef/easy-webfinger/commit/348c00fe5fc00ab9d750045577b3ad670b799b9f))
+
 ## 0.1.0 (2024-01-13)
 
 
