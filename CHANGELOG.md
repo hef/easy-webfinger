@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/hef/easy-webfinger/compare/v0.1.1...v0.1.2) (2024-01-13)
+
+
+### Bug Fixes
+
+* **doc:** make user name more obvious ([db271dc](https://github.com/hef/easy-webfinger/commit/db271dcaccf26162cf452df07f5c0b8de6a0f0a5))
+
 ## [0.1.1](https://github.com/hef/easy-webfinger/compare/v0.1.0...v0.1.1) (2024-01-13)
 
 
