@@ -1,8 +1,6 @@
 # easy-webfinger
 
-A simple to configure webfinger server returning a oidc issuer. 
-
-Only 1 feature is supported: returing the same oidc issuer for any queried "acct" (email address).
+A simple to configure webfinger server returning a single oidc issuer. 
 
 Set the issuer with the `EASYWEBFINGER_ISSUER` environment variable.
 
