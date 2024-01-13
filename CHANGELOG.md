@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.3](https://github.com/hef/easy-webfinger/compare/v0.1.2...v0.1.3) (2024-01-13)
+
+
+### Bug Fixes
+
+* **ci:** allow release-please more repo perms ([982109d](https://github.com/hef/easy-webfinger/commit/982109d728c571d4fa6e38ad3dd81460c36e240b))
+* **ci:** don't run an extra time for release-please branches ([6884c67](https://github.com/hef/easy-webfinger/commit/6884c67228923dcf1634d07189ebddd2693b85fd))
+
 ## [0.1.2](https://github.com/hef/easy-webfinger/compare/v0.1.1...v0.1.2) (2024-01-13)
 
 
