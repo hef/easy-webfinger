@@ -15,5 +15,5 @@ docker run -p 3000:3000 -E EASYWEBFINGER_ISSUER=https://auth.example.com ghcr.io
 Checking the response
 
 ```
-curl -v https://localhost:3000/.well-known/webfinger?resource=acct:my-ser-name@example.com
+curl -v https://localhost:3000/.well-known/webfinger?resource=acct:my-user-name@example.com
 ```
