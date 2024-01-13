@@ -17,3 +17,18 @@ Checking the response
 ```
 curl http://localhost:3000/.well-known/webfinger?resource=acct:my-user-name@example.com
 ```
+
+Example Response (formatted):
+
+```
+{
+  "subject": "acct:my-user-name@example.com",
+  "links": [
+    {
+      "rel": "http://openid.net/specs/connect/1.0/issuer",
+      "href": "https://auth.example.com"
+    }
+  ]
+}
+```
+
