@@ -27,6 +27,7 @@ RUN mkdir -p /${TARGETARCH}
 RUN cp /app/target/`cat /tmp/targetarch`-unknown-linux-musl/${CARGO_PROFILE}/easy-webfinger /${TARGETARCH}/easy-webfinger
 
 FROM scratch AS runtime
+LABEL org.opencontainers.image.source = "https://github.com/hef/easy-webfinger"
 ARG TARGETARCH
 EXPOSE 3000
 COPY --from=builder /${TARGETARCH}/easy-webfinger /easy-webfinger
