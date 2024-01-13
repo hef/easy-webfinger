@@ -1,0 +1,33 @@
+name: Rust
+
+on:
+  push:
+    branches:
+      - '**'
+      - '!renovate/**'
+  pull_request:
+    branches: 
+      - '**'
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event_name == 'pull_request' && github.head_ref || github.ref }} 
+  cancel-in-progress: true
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Create k8s Kind Cluster
+      uses: helm/kind-action@v1.8.0
+      with:
+        cluster_name: kind
+    - uses: actions/checkout@v4
+    - name: Build
+      run: cargo build --verbose
+    - name: Run tests
+      run: cargo test --verbose
