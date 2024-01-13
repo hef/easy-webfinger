@@ -32,3 +32,6 @@ Example Response (formatted):
 }
 ```
 
+# Purpose
+
+Tailscale needs a webfinger service to [sign up](https://login.tailscale.com/start/oidc) with [OIDC](https://tailscale.com/kb/1240/sso-custom-oidc). This project satisfies that requirement for very little effort.
