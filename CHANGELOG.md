@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.0](https://github.com/hef/easy-webfinger/compare/v0.1.4...v1.0.0) (2024-01-13)
+
+
+### Miscellaneous Chores
+
+* release 1.0.0 ([bcfa0a9](https://github.com/hef/easy-webfinger/commit/bcfa0a91051aa0aa311edd65c3c82109d1e224b3))
+
 ## [0.1.4](https://github.com/hef/easy-webfinger/compare/v0.1.3...v0.1.4) (2024-01-13)
 
 
