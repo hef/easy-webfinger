@@ -15,4 +15,6 @@ jobs:
     steps:
       - uses: google-github-actions/release-please-action@v4
         with:
+          # need a bonus secret to trigger build jobs.
+          token: ${{ secrets.MY_RELEASE_PLEASE_TOKEN }}
           release-type: rust
