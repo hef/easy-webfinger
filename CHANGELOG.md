@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/hef/easy-webfinger/compare/v1.0.0...v1.0.1) (2024-01-27)
+
+
+### Bug Fixes
+
+* **deps:** update rust crate axum to 0.7.4 ([fac30c6](https://github.com/hef/easy-webfinger/commit/fac30c67f7c2758c98cfd51b50b265bd925b8dd9))
+
 ## [1.0.0](https://github.com/hef/easy-webfinger/compare/v0.1.4...v1.0.0) (2024-01-13)
 
 
