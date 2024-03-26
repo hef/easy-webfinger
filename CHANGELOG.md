@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.2](https://github.com/hef/easy-webfinger/compare/v1.0.1...v1.0.2) (2024-03-26)
+
+
+### Bug Fixes
+
+* **deps:** update rust crate serde to 1.0.196 ([d91e6aa](https://github.com/hef/easy-webfinger/commit/d91e6aa9c89c8409cb5500636e6c6efcf6acd0aa))
+* **deps:** update rust crate serde to 1.0.197 ([40c0300](https://github.com/hef/easy-webfinger/commit/40c0300565f230a91d7597a01cfd93df8fd8a326))
+* **deps:** update rust crate serde_json to 1.0.113 ([e5a7877](https://github.com/hef/easy-webfinger/commit/e5a7877b7994f3656d099677292adaf9d5311bf5))
+* **deps:** update rust crate serde_json to 1.0.114 ([f51411c](https://github.com/hef/easy-webfinger/commit/f51411cbe8acdbf2dca6b6e39b68f7490acc7c48))
+* **deps:** update rust crate serde_json to 1.0.115 ([d7c47f7](https://github.com/hef/easy-webfinger/commit/d7c47f7989f67a015ff2a8bf55affa93560be667))
+* **deps:** update rust crate tokio to 1.36.0 ([8280bb7](https://github.com/hef/easy-webfinger/commit/8280bb787949e01a0ca46b59ba56baeae2c9a31a))
+
 ## [1.0.1](https://github.com/hef/easy-webfinger/compare/v1.0.0...v1.0.1) (2024-01-27)
 
 
