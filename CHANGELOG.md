@@ -1,5 +1,37 @@
 # Changelog
 
+## [1.0.2](https://github.com/hef/easy-webfinger/compare/v1.0.1...v1.0.2) (2024-08-08)
+
+
+### Bug Fixes
+
+* **deps:** update rust crate serde to 1.0.196 ([d91e6aa](https://github.com/hef/easy-webfinger/commit/d91e6aa9c89c8409cb5500636e6c6efcf6acd0aa))
+* **deps:** update rust crate serde to 1.0.197 ([40c0300](https://github.com/hef/easy-webfinger/commit/40c0300565f230a91d7597a01cfd93df8fd8a326))
+* **deps:** update rust crate serde to 1.0.198 ([d3bd19c](https://github.com/hef/easy-webfinger/commit/d3bd19c6b3366870ad9153920c77d4e6743ef2e9))
+* **deps:** update rust crate serde to 1.0.199 ([f188229](https://github.com/hef/easy-webfinger/commit/f188229687154dac65c7ca9f58ac00ad07c9f581))
+* **deps:** update rust crate serde to 1.0.200 ([b110d9e](https://github.com/hef/easy-webfinger/commit/b110d9ebefdd81b8eeda01bd77bb1117c4ca12f8))
+* **deps:** update rust crate serde to v1.0.201 ([4507ab4](https://github.com/hef/easy-webfinger/commit/4507ab42c9cba20f49db48ae8b6eb7228f40857a))
+* **deps:** update rust crate serde to v1.0.202 ([d2963b7](https://github.com/hef/easy-webfinger/commit/d2963b7c4ccd2265c837a280719470ba60aeb1b0))
+* **deps:** update rust crate serde to v1.0.203 ([292eac3](https://github.com/hef/easy-webfinger/commit/292eac33682461aa19e58f57ce6d6c6a2ba28bbf))
+* **deps:** update rust crate serde to v1.0.204 ([f026b82](https://github.com/hef/easy-webfinger/commit/f026b82275bd521148d0e2f8e99d627fd3116547))
+* **deps:** update rust crate serde to v1.0.205 ([fdbff1b](https://github.com/hef/easy-webfinger/commit/fdbff1be1d3f34d4db4fa3d0cd50784b970537c6))
+* **deps:** update rust crate serde_json to 1.0.113 ([e5a7877](https://github.com/hef/easy-webfinger/commit/e5a7877b7994f3656d099677292adaf9d5311bf5))
+* **deps:** update rust crate serde_json to 1.0.114 ([f51411c](https://github.com/hef/easy-webfinger/commit/f51411cbe8acdbf2dca6b6e39b68f7490acc7c48))
+* **deps:** update rust crate serde_json to 1.0.115 ([d7c47f7](https://github.com/hef/easy-webfinger/commit/d7c47f7989f67a015ff2a8bf55affa93560be667))
+* **deps:** update rust crate serde_json to 1.0.116 ([62651aa](https://github.com/hef/easy-webfinger/commit/62651aa967e0d7ab8c2ed8c816bb94ebb9e358a4))
+* **deps:** update rust crate serde_json to v1.0.117 ([b8ccaf2](https://github.com/hef/easy-webfinger/commit/b8ccaf2ccf64f635f9d1dda665ceb4633a75ccab))
+* **deps:** update rust crate serde_json to v1.0.118 ([39e8e11](https://github.com/hef/easy-webfinger/commit/39e8e1179f271e78945cba2e5c035dbb0eee8c87))
+* **deps:** update rust crate serde_json to v1.0.119 ([3dea6f5](https://github.com/hef/easy-webfinger/commit/3dea6f5cf197e51b7ef7a5539e30ca039c0cc7ad))
+* **deps:** update rust crate serde_json to v1.0.120 ([1526e1e](https://github.com/hef/easy-webfinger/commit/1526e1e72fd09d4e96508a94b7d1a063ecf75e40))
+* **deps:** update rust crate serde_json to v1.0.121 ([4a0e08e](https://github.com/hef/easy-webfinger/commit/4a0e08efe2b0cb7bcc7d1f28a28782c763ecee84))
+* **deps:** update rust crate serde_json to v1.0.122 ([92207ad](https://github.com/hef/easy-webfinger/commit/92207ad6bd849886ec748532d8e125f15b8499d5))
+* **deps:** update rust crate tokio to 1.36.0 ([8280bb7](https://github.com/hef/easy-webfinger/commit/8280bb787949e01a0ca46b59ba56baeae2c9a31a))
+* **deps:** update rust crate tokio to 1.37.0 ([0ef03c9](https://github.com/hef/easy-webfinger/commit/0ef03c941a5914f429bd796f66a30d816e29d7c5))
+* **deps:** update rust crate tokio to v1.38.0 ([3ceacca](https://github.com/hef/easy-webfinger/commit/3ceacca10655074d810197aeba3aee3e5fa641e5))
+* **deps:** update rust crate tokio to v1.38.1 ([790ea08](https://github.com/hef/easy-webfinger/commit/790ea08f87add2adf10ea37f379a2ea6788d2687))
+* **deps:** update rust crate tokio to v1.39.1 ([632282a](https://github.com/hef/easy-webfinger/commit/632282abfdae3c48f201f04867823264ac21e95f))
+* **deps:** update rust crate tokio to v1.39.2 ([5301702](https://github.com/hef/easy-webfinger/commit/530170203894d9843180c0ce83d24b4bc1b91bef))
+
 ## [1.0.1](https://github.com/hef/easy-webfinger/compare/v1.0.0...v1.0.1) (2024-01-27)
 
 
