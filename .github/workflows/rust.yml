@@ -27,7 +27,7 @@ jobs:
       uses: helm/kind-action@v1.13.0
       with:
         cluster_name: kind
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
     - name: Build
       run: cargo build --verbose
     - name: Run tests
